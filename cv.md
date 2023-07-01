@@ -54,6 +54,11 @@ Complete the function that takes a string as an argument representing the curren
 
     }
 
+### Languages:
+
+- Russian : Native
+- English: A2
+
 
 
 
